@@ -1,0 +1,24 @@
+<html>
+<head>
+ <title>B11_Anna Pramod</title>
+</head>
+ <body>
+  <style>
+   th,td,table{
+    border: 2px solid black;
+    borde-collapse:collapse;	
+   }
+   th,td{
+   padding:3px;
+   }
+  </style>
+  <table>
+	<tr>
+	<td align="center" colspan="4" bgcolor="yellow">MY PROFILE</td>
+	</tr>
+	<tr>
+	<td height="50" width="50"><img width="120" height="87" src="E:\PraPonKunChi@08\Jesus" alt=""></td>
+	</tr>
+  </table>
+ </body>
+</html>

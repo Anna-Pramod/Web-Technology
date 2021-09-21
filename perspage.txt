@@ -1,0 +1,69 @@
+<html>
+<head>
+ <title>B11_Anna Pramod</title>
+</head>
+ <body>
+  <style>
+   th,td,table{
+    border: 2px solid black;
+    borde-collapse:collapse;	
+   }
+   th,td{
+   padding:3px;
+   }
+  </style>
+  <table>
+	<tr>
+	<td align="center" height="50" colspan="4" bgcolor="#fda50f">MY PROFILE</td>
+	</tr>
+	<tr>
+	<td height="50" width="50"><img width="200" height="200" src="https://media-exp1.licdn.com/dms/image/C5603AQHFXEBt_8C36Q/profile-displayphoto-shrink_200_200/0/1616757465688?e=1622678400&v=beta&t=RMCghHKbH0Avknd-iLwxOM14WfaUg_Id2hX5BjQAM8g" alt=""></td>
+	<td height="50" width="300" colspan="2" bgcolor="#298fca"></td>
+	<td align = "right" height="50" width="250" bgcolor="#298fca"><b>ANNA PRAMOD</b>
+	<br>
+	<br>House No: 52,Kollam
+	<br>Kerala
+	<br>Mobile: +91 0123456789
+	<br>e-mail: anna@gmail.com
+	</td>
+	</tr>
+	<tr>
+	<td align="center" height="25" colspan="4" bgcolor="#fda50f">HOME PAGE</td>
+	</tr>
+	<tr>
+	<td height="300" width="200" bgcolor="#298fca" align="top-left">
+	<a href="WEB_Exercise_6.html">HOME</a>
+	<br>
+	<br>
+	<br>
+	<a href="qualifpage.html">QUALIFICATION</a>
+	<br>
+	<br>
+	<br>
+	<a href="skillsetpage.html">SKILL SET</a>
+	<br>
+	<br>
+	<br>
+	<a href="perspage.html">PERSONAL INFO</a>
+	<br>
+	</td>
+	<td height="300" colspan="3">
+	<b> Hello world! </b>
+	<br>
+	<b> My Personal Info: </b>
+	<br>
+	<b>Date of Birth: </b>17-09-2000<br>
+	<b>Blood Group: </b>O +ve<br>
+	<b>Hobbies: </b>Reading, Gardening, Singing.<br>
+	I am also interested in sports like Badminton, Cricket and Table Tennis<br>
+	<br>
+	<br>
+	Thank you for visiting!
+	</td>
+	</tr>
+	<tr>
+	<td align="center" colspan="4" bgcolor="#fda50f">FOOTER</td>
+	</tr>
+  </table>
+ </body>
+</html>
